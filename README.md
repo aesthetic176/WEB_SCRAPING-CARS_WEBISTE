@@ -1,7 +1,7 @@
 # WEB_SCRAPING-CARS_WEBISTE
 It is a web scraping project
 
-##I did this course by learning from web scraping with python from greatlearning 
+I did this course by learning from web scraping with python from greatlearning 
 
 In this project first i did a normal web scraping of a website known as cars , i have scraped the data like car model, price, reviews , number of reviews, mileage, dealer name, then i did data cleaning after the result(in number of reviews count), but in this i scraped only 1 page.
 
